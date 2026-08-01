@@ -51,7 +51,7 @@ with a new date.
 
 ## Contact
 
-chenzhennba@gmail.com
+chenzhendeveloper@gmail.com
 
 ---
 
@@ -103,4 +103,4 @@ App 需要相册权限用于选取照片,以及在导出时向相册添加内容
 
 ## 联系方式
 
-chenzhennba@gmail.com
+chenzhendeveloper@gmail.com

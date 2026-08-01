@@ -69,7 +69,7 @@ with a new date.
 
 ## Contact
 
-chenzhennba@gmail.com
+chenzhendeveloper@gmail.com
 
 ---
 
@@ -137,4 +137,4 @@ DotShake 并非面向儿童设计,且不收集任何人的数据。
 
 ## 联系方式
 
-chenzhennba@gmail.com
+chenzhendeveloper@gmail.com

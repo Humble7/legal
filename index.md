@@ -10,4 +10,4 @@ touches different data.
 Terms of use for all apps: Apple's
 [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
 
-Contact: chenzhennba@gmail.com
+Contact: chenzhendeveloper@gmail.com

@@ -58,7 +58,7 @@ with a new date.
 
 ## Contact
 
-chenzhennba@gmail.com
+chenzhendeveloper@gmail.com
 
 ---
 
@@ -115,4 +115,4 @@ Glello Pro 通过 Apple 的 App 内购买销售,款项由 Apple 处理,我们不
 
 ## 联系方式
 
-chenzhennba@gmail.com
+chenzhendeveloper@gmail.com
